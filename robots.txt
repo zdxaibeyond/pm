@@ -1,0 +1,4 @@
+User-agent: *
+
+    
+Sitemap: http://57e8ecf41155d.t73.qifeiye.com/index.php?xml_sitemap=params=
